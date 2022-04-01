@@ -1,0 +1,24 @@
+1kb01 bot to do list
+
+
+- User Inputed link kuliah - Done
+- Updated Link Kuliah with GUI - Done
+- Latest User Update with TimeStamp - Done
+
+- Saving and Loading file to Json File - Done
+- Activity Logging - Partially Done
+    - User Input / Updated Link Kuliah Logging (With Before and after) - Done
+    - User Input Tugas list - on going
+- Console TimeStamp - Done
+
+- User Inputed Tugas list with deadlines and matkul names - on going
+- Per person Tugas Checklist
+
+- Semester List
+- Mata kuliah register
+
+
+- User Count Caching
+- Contribution Leaderboard (Last Priority)
+
+
